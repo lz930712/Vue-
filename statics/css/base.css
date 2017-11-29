@@ -1,0 +1,18 @@
+body {
+    background-color: #fff;
+}
+
+
+/* 设置锚点变化 时的字体图标颜色 */
+
+.router-link-active {
+    color: #007aff;
+}
+
+
+/* 要给每一个路由设置margin top 和bottom  因为header 和底部 会覆盖 */
+
+#teml {
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
